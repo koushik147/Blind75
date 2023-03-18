@@ -1,3 +1,6 @@
+#TC: O(n) 
+#SC: O(n)
+
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         sets = set(nums) # creating a set of nums
