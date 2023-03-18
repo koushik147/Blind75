@@ -1,3 +1,5 @@
+#TC: O(log n) 
+#SC: O(1)
 class Solution(object):
     def search(self, nums, target):
         """
