@@ -1,3 +1,5 @@
+#TC: O(m*n) 
+#SC: O(1)
 class Solution(object):
     def longestCommonSubsequence(self, text1, text2):
         """
