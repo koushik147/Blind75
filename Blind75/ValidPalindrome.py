@@ -1,8 +1,11 @@
+#TC: O(n) 
+#SC: O(len(t))
+
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-#low var as zero
+        #low var as zero
         low=0
-    #and high var to end
+        #and high var to end
         high=len(s)-1
 
         #iterate until low is less than high
@@ -25,6 +28,6 @@ class Solution:
             low+=1
             #decrement high minus one
             high-=1
-#if return true
+        #if return true
         return True 
         
