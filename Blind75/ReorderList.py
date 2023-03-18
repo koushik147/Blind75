@@ -1,3 +1,5 @@
+#TC: O(n) 
+#SC: O(1)
 class Solution:
     def reorderList(self, head: Optional[ListNode]) -> None:
         
