@@ -1,3 +1,6 @@
+
+#TC: O(n) 
+#SC:O(1)
 class Solution:
     def maxArea(self, height: List[int]) -> int:
         
