@@ -1,3 +1,5 @@
+#TC: O(n) 
+#SC: O(1)
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
         
