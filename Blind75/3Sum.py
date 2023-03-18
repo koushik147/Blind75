@@ -1,3 +1,5 @@
+#TC: O(n log n) 
+#SC: O(1)
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         
