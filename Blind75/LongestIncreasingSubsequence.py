@@ -1,3 +1,5 @@
+Tc:O(nlogn)
+Sc:O(n)
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
 
