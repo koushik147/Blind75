@@ -1,3 +1,5 @@
+Tc:O(Tn)
+Sc:O(Tn)
 class Solution(object):
     def coinChange(self, coins, amount):
         """
