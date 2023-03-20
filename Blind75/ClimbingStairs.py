@@ -1,3 +1,5 @@
+Tc:O(n)
+Sc:O(n)
 class Solution(object):
     def climbStairs(self, n):
         """
