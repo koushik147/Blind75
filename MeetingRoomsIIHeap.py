@@ -1,3 +1,5 @@
+#Time_Complexity: O(nlogk)
+#Space_Complexity: O(k)
 def minMeetingRooms(self,intervals):
     rooms = [] # creating an empty rooms array
     intervals.sort(key = lambda x:x[0]) # defining the custom sort function with lambda function
