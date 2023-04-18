@@ -1,3 +1,5 @@
+#Time_Complexity: O(n)
+#Space_Complexity: O(n)
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         
