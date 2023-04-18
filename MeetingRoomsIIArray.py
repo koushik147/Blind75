@@ -1,3 +1,5 @@
+#Time_Complexity: O(n)
+#Space_Complexity: O(n)
 intervals = [[0,30],[15,20],[35,45]]
 n = len(intervals)
 result = 0
