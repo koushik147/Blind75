@@ -1,3 +1,5 @@
+#Time_Complexity: O(nlogk)
+#Space_Complexity: O(n)
 class Solution(object):
     def mergeKLists(self, lists):
         """
