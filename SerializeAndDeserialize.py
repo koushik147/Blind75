@@ -4,7 +4,8 @@
 #         self.val = x
 #         self.left = None
 #         self.right = None
-
+#Time_Complexity: O(n)
+#Space_Complexity: O(n)
 class Codec:
 
     def serialize(self, root):
