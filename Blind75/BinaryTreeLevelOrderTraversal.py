@@ -4,6 +4,8 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+#Time_Complexity: O(n)
+#Space_Complexity: O(n)
 class Solution(object):
     def levelOrder(self, root):
         """
