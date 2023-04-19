@@ -1,3 +1,5 @@
+#Time_Complexity: o(n)
+#Space_Complexity: O(1)
 class Solution(object):
     def maxDepth(self, root):
         """
