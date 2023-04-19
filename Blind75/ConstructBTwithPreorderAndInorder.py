@@ -1,3 +1,5 @@
+#Time_Complexity: o(n)
+#Space_Complexity: O(n)
 class Solution:
     def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
         if not preorder or not inorder: # if preorder and inorder is null return none
