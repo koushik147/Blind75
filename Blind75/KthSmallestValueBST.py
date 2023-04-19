@@ -1,3 +1,5 @@
+#Time_Complexity: o(n)
+#Space_Complexity: O(n)
 class Solution(object):
     def kthSmallest(self, root, k):
         """
