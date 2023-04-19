@@ -1,3 +1,5 @@
+#Time_Complexity: o(n)
+#Space_Complexity: O(1)
 class Solution(object):
     def lowestCommonAncestor(self, root, p, q):
         while root: # run until root is present 
