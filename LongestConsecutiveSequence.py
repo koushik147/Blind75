@@ -1,3 +1,5 @@
+#Time_Complexity: O(n)
+#Space_Complexity: O(n)
 class Solution(object):
     def longestConsecutive(self, nums):
         """
